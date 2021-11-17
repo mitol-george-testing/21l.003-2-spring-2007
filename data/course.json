@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1fc51353-62ad-303a-a545-ecea3beace97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Reading Fiction",
+  "course_description": "Reading Fiction is designed to sharpen your skills as a critical reader. As we explore both short stories and novels focusing on the theme of \"the city in literature,\" we will learn about the various elements that shape the way we read texts - structure, narrative voice, character development, novelistic experimentation, historical and political contexts and reader response.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.003-2",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
